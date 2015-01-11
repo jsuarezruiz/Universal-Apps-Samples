@@ -1,0 +1,1 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\Ejemplo CommandBar.WindowsPhone.csproj;neutral

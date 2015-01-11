@@ -1,0 +1,53 @@
+﻿<base:PageBase
+    x:Class="ScreenRecorder.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:interactivity="using:Microsoft.Xaml.Interactivity"
+    xmlns:core="using:Microsoft.Xaml.Interactions.Core"
+    xmlns:media="using:Microsoft.Xaml.Interactions.Media"
+    xmlns:base="using:ScreenRecorder.Views.Base"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding MainViewModel, Source={StaticResource Locator}}">
+    <Page.Resources>
+
+        <Storyboard x:Name="MyStoryboard">
+            <DoubleAnimation From="0" To="250" Duration="00:00:10" 
+                    Storyboard.TargetName="Ball" 
+                    Storyboard.TargetProperty="(UIElement.RenderTransform).(TranslateTransform.Y)">
+                <DoubleAnimation.EasingFunction>
+                    <BounceEase Bounces="40" EasingMode="EaseOut" 
+                                Bounciness="1.2" />
+                </DoubleAnimation.EasingFunction>
+            </DoubleAnimation>
+        </Storyboard>
+
+    </Page.Resources>
+    <Grid>
+        <Ellipse x:Name="Ball" Height="75" Width="75" Fill="Red" RenderTransformOrigin="0.5,0.5">
+            <Ellipse.RenderTransform>
+                <TranslateTransform/>
+            </Ellipse.RenderTransform>
+            <interactivity:Interaction.Behaviors>
+                <core:EventTriggerBehavior EventName="Loaded">
+                    <media:ControlStoryboardAction ControlStoryboardOption="Play" Storyboard="{StaticResource MyStoryboard}"/>
+                </core:EventTriggerBehavior>
+            </interactivity:Interaction.Behaviors>
+        </Ellipse>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton
+                Label="{Binding Recording, Converter={StaticResource RecordStateToStringConverter}}"
+                Icon="{Binding Recording, Converter={StaticResource RecordStateToIconElementConverter}}"
+                Command="{Binding RecordCommand}"/>
+            <AppBarButton Visibility="{Binding Result, Converter={StaticResource BoolToVisibilityConverter}}"
+                          Label="Result"
+                          Icon="Forward"
+                          Command="{Binding ResultCommand}" />
+        </CommandBar>
+    </Page.BottomAppBar>
+</base:PageBase>
+

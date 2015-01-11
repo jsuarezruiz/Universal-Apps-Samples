@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="Ejemplo_CommandBar.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    DataContext="{Binding MainViewModel, Source={StaticResource Locator}}">
+    <Grid />
+    <Page.BottomAppBar>
+        <CommandBar Background="DarkOrange">
+            <AppBarButton Icon="AllApps" Label="apps">
+                <AppBarButton.Flyout>
+                    <MenuFlyout>
+                        <MenuFlyoutItem Text="App01" Command="{Binding MenuFlyoutCommand}"/>
+                        <MenuFlyoutItem Text="App02"/>
+                    </MenuFlyout>
+                </AppBarButton.Flyout>
+            </AppBarButton>
+            <AppBarButton Label="Add">
+                <AppBarButton.Icon>
+                    <BitmapIcon UriSource="ms-appx:///Assets/Logo.scale-240.png" />
+                </AppBarButton.Icon>
+            </AppBarButton>
+            <AppBarButton Label="Mail">
+                <AppBarButton.Icon>
+                    <FontIcon FontFamily="Segoe UI Symbol" Glyph="" />
+                </AppBarButton.Icon>
+            </AppBarButton>
+            <AppBarButton Label="Path" Command="{Binding PrimaryCommand}">
+                <AppBarButton.Icon>
+                    <PathIcon Data="F1 M 20,20L 24,10L 24,24L 5,24" />
+                </AppBarButton.Icon>
+            </AppBarButton>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Icon="Help" Label="help" Command="{Binding SecondaryCommand}" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

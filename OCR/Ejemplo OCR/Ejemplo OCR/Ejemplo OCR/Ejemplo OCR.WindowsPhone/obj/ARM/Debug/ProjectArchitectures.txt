@@ -1,0 +1,1 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\Ejemplo OCR.WindowsPhone.csproj;arm

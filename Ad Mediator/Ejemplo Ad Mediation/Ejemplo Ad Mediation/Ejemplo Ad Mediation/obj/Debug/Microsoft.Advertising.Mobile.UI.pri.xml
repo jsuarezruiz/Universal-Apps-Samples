@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Microsoft.Advertising.Mobile.UI" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Microsoft.Advertising.Mobile.UI">
+				<NamedResource name="Microsoft.Advertising.Mobile.UI.xr.xml" uri="ms-resource://Microsoft.Advertising.Mobile.UI/Files/Microsoft.Advertising.Mobile.UI/Microsoft.Advertising.Mobile.UI.xr.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising.Mobile.UI\Microsoft.Advertising.Mobile.UI.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://Microsoft.Advertising.Mobile.UI/Files/Microsoft.Advertising.Mobile.UI/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Web">
+					<NamedResource name="bootstrap.html" uri="ms-resource://Microsoft.Advertising.Mobile.UI/Files/Microsoft.Advertising.Mobile.UI/Web/bootstrap.html">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Ormma.js" uri="ms-resource://Microsoft.Advertising.Mobile.UI/Files/Microsoft.Advertising.Mobile.UI/Web/Ormma.js">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.UI">
+			<ResourceMapSubtree name="WinPhone">
+				<NamedResource name="HtmlForImage" uri="ms-resource://Microsoft.Advertising.Mobile.UI/Microsoft.Advertising.Mobile.UI/WinPhone/HtmlForImage">
+					<Candidate type="String">
+						<Value>&lt;html&gt;&lt;head&gt;&lt;meta name='MobileOptimized' content='{0}' /&gt;&lt;style type="text/css"&gt;@media all {{@-ms-viewport{{user-zoom: fixed;max-zoom: 1;min-zoom: 1;width: device-width;height: device-height;}}}}&lt;/style&gt;&lt;/head&gt;&lt;body style="margin:0;padding:0"&gt;&lt;img src="data:image;base64,{1}" style="width:100%;max-width:100%;max-height:100%;display:block;margin:auto;" /&gt;&lt;/body&gt;&lt;/html&gt;</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

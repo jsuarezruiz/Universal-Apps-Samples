@@ -1,0 +1,38 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\App.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Views\MainView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Views\MainView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\App.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Ejemplo CommandBar.Windows.xr.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Ejemplo CommandBar.Windows.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Ejemplo CommandBar.Windows.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\resources.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Ejemplo CommandBar.Windows.build.appxrecipe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Microsoft.Practices.Unity.NetCore.dll
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Microsoft.Practices.Unity.NetCore.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Microsoft.Practices.Unity.NetCore.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Views\MainView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Ejemplo CommandBar.Windows.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Ejemplo CommandBar.Windows.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Ejemplo CommandBar.Windows.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\priconfig.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\layout.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\resources.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\pri.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\qualifiers.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Microsoft.Practices.Unity.NetCore.pri.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\Ejemplo CommandBar.Windows.csprojResolveAssemblyReference.cache

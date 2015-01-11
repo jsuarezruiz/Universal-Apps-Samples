@@ -1,0 +1,48 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Views\MainView.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Views\MainView.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Views\MainView.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Ejemplo TextToSpeech.Windows.xr.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Ejemplo TextToSpeech.Windows.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Ejemplo TextToSpeech.Windows.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Ejemplo TextToSpeech.Windows.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Ejemplo TextToSpeech.Windows.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Ejemplo TextToSpeech.Windows.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Ejemplo TextToSpeech.Windows.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Microsoft.Practices.Unity.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\ProjectArchitectures.txt

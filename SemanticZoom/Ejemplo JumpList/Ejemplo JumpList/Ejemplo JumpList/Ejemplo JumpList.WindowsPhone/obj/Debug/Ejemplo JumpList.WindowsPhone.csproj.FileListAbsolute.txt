@@ -1,0 +1,75 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Views\MainView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Views\MainView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Views\MainView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Ejemplo JumpList.WindowsPhone.xr.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Ejemplo JumpList.WindowsPhone.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Ejemplo JumpList.WindowsPhone.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Ejemplo JumpList.WindowsPhone.build.appxrecipe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Ejemplo JumpList.WindowsPhone.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Ejemplo JumpList.WindowsPhone.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Ejemplo JumpList.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Themes\GridView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\bin\Debug\Themes\ListView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\GridView.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\GridView.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\ListView.g.i.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\ListView.g.cs
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\GridView.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\ListView.xaml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Ejemplo JumpList.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\GridView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Themes\ListView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo JumpList\Ejemplo JumpList\Ejemplo JumpList.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate

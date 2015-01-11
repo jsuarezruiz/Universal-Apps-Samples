@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAVI</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>198066c8-e27a-4ca0-b665-a60c44f3b995</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DF416F53CC8C4D2DCA57EE560E4C5690B2DB4D6CC1789C3BA262662A898679C1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>198066c8-e27a-4ca0-b665-a60c44f3b995_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>198066c8-e27a-4ca0-b665-a60c44f3b995_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>198066c8-e27a-4ca0-b665-a60c44f3b995</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-20T12:22:21.476</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Ejemplo CommandBar.Windows.exe">
+      <PackagePath>Ejemplo CommandBar.Windows.exe</PackagePath>
+      <Modified>2014-04-29T18:39:51.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\packages\Unity.3.0.1304.1\lib\NetCore45\Microsoft.Practices.Unity.NetCore.dll">
+      <PackagePath>Microsoft.Practices.Unity.NetCore.dll</PackagePath>
+      <Modified>2014-04-20T12:16:09.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-04-20T12:07:22.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Views\MainView.xbf">
+      <PackagePath>Views\MainView.xbf</PackagePath>
+      <Modified>2014-04-24T19:21:19.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\Ejemplo CommandBar.Windows.xr.xml">
+      <PackagePath>Ejemplo CommandBar.Windows.xr.xml</PackagePath>
+      <Modified>2014-04-24T19:21:19.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-24T19:14:53.098</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

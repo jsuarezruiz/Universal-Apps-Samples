@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo jumplist\ejemplo jumplist\ejemplo jumplist.windows\obj\debug\intermediatexaml\ejemplo jumplist.windows.exe" HashGuid="3d7d241e-5c36-042d-e8fc-e97127ef342b" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo jumplist\packages\commonservicelocator.1.2\lib\portable-windows8+net40+sl5+windowsphone8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo jumplist\packages\unity.3.5.1404.0\lib\win8\microsoft.practices.unity.dll" HashGuid="bfbab92e-125a-5b6e-9ddc-f777451b52b9" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo jumplist\packages\unity.3.5.1404.0\lib\win8\microsoft.practices.unity.registrationbyconvention.dll" HashGuid="51d90060-4c44-273b-debb-8173fa2723a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

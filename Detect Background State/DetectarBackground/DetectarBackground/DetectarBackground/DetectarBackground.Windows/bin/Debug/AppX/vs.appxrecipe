@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAVI</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ef973e0c-b9c7-4aaf-a5aa-c38e34cb240b</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>828B6B5CCB38D2E976C00BD4AA7A378DBC131A30323DF69650579A1720CA33B1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ef973e0c-b9c7-4aaf-a5aa-c38e34cb240b_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ef973e0c-b9c7-4aaf-a5aa-c38e34cb240b_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ef973e0c-b9c7-4aaf-a5aa-c38e34cb240b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-13T12:31:23.546</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\bin\Debug\DetectarBackground.Windows.exe">
+      <PackagePath>DetectarBackground.Windows.exe</PackagePath>
+      <Modified>2014-07-13T12:31:21.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-07-13T12:31:21.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-07-13T12:31:21.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\bin\Debug\DetectarBackground.Windows.xr.xml">
+      <PackagePath>DetectarBackground.Windows.xr.xml</PackagePath>
+      <Modified>2014-07-13T12:31:21.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\DetectarBackground\DetectarBackground\DetectarBackground.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-13T12:31:22.153</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

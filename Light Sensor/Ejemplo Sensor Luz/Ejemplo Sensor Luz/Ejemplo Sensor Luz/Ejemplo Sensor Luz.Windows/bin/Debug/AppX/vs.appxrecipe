@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURFACEJSUAREZ</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e5f3db76-6214-4c8c-af4d-69888a7c3289</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F5E0D090AB0DAE91F6B6FA729156F8AAC699F1CADE54F690B0A959D5F1DFCFDE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e5f3db76-6214-4c8c-af4d-69888a7c3289_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e5f3db76-6214-4c8c-af4d-69888a7c3289_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e5f3db76-6214-4c8c-af4d-69888a7c3289</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-13T09:11:55.645</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\bin\Debug\Ejemplo Sensor Luz.Windows.exe">
+      <PackagePath>Ejemplo Sensor Luz.Windows.exe</PackagePath>
+      <Modified>2014-11-13T09:11:53.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-11-12T20:33:52.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.dll">
+      <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
+      <Modified>2014-11-12T20:33:53.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
+      <Modified>2014-11-12T20:33:53.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T02:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T02:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T02:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T02:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-13T09:11:53.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\bin\Debug\Views\MainView.xbf">
+      <PackagePath>Views\MainView.xbf</PackagePath>
+      <Modified>2014-11-13T09:11:53.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\bin\Debug\Ejemplo Sensor Luz.Windows.xr.xml">
+      <PackagePath>Ejemplo Sensor Luz.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-13T09:11:52.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Sensor Luz\Ejemplo Sensor Luz\Ejemplo Sensor Luz.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-13T09:11:55.080</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

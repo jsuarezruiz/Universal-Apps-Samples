@@ -1,0 +1,69 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Ejemplo OCR.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\App.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Views\MainView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Views\MainView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Views\MainView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\OcrResources\MsOcrRes.orp
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Views\MainView.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Ejemplo OCR.WindowsPhone.xr.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Ejemplo OCR.WindowsPhone.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Ejemplo OCR.WindowsPhone.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\resources.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Ejemplo OCR.WindowsPhone.build.appxrecipe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\WindowsPreview.Media.Ocr.winmd
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\WindowsPreview.Media.Ocr.dll
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\bin\ARM\Debug\WindowsPreview.Media.Ocr.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\App.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Ejemplo OCR.WindowsPhone.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Ejemplo OCR.WindowsPhone.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Ejemplo OCR.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\priconfig.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\layout.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\resources.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\pri.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\qualifiers.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo OCR\Ejemplo OCR\Ejemplo OCR.WindowsPhone\obj\ARM\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate

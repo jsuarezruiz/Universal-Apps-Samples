@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\ejemplo ad mediation\obj\debug\intermediatexaml\ejemplo ad mediation.exe" HashGuid="285a07ef-ef04-5549-8edd-ff1d00c4a037" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.core.dll" HashGuid="cf2a3515-8a74-ae5d-1bdd-94da9c6e937c" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.windowsphone81.dll" HashGuid="a8ce84fe-a291-0560-36ea-e00200ea103f" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\packages\adduplexwinphone81.8.5.0.5\lib\portable-win81+wpa81\adduplex.universal.controls.winphone.xaml.winmd" HashGuid="041cc2c9-303b-df60-bba2-bb71a4933fb4" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\packages\adduplexwinphone81.8.5.0.5\lib\portable-win81+wpa81\adduplex.universal.winphone.winrt.winmd" HashGuid="19115a1c-7d72-4425-8ed4-9bcdb868c955" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\packages\microsoft.admediator.windowsphone81.adduplex.1.0.10\lib\wpa\microsoft.admediator.windowsphone81.adduplex.dll" HashGuid="0fe3ad75-cdd4-a0f5-ed77-0a928d16c02c" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\packages\microsoft.admediator.windowsphone81.microsoftadvertising.1.0.11\lib\wpa\microsoft.admediator.windowsphone81.microsoftadvertising.dll" HashGuid="972ae138-fa80-d08a-978b-e5b6e176e690" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\packages\microsoft.advertising.windowsphone.xaml81.8.1.40505.0\lib\wpa81\microsoft.advertising.mobile.common.winmd" HashGuid="1e8503cf-70b4-228d-c093-500b67413313" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\packages\microsoft.advertising.windowsphone.xaml81.8.1.40505.0\lib\wpa81\microsoft.advertising.mobile.display.winmd" HashGuid="cc0fb2e7-7a64-f70e-2997-2ad4fbf1cad0" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\ejemplo ad mediation\packages\microsoft.advertising.windowsphone.xaml81.8.1.40505.0\lib\wpa81\microsoft.advertising.mobile.ui.winmd" HashGuid="e9cb4a1e-7cfd-ae54-a0dc-9f940488270a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

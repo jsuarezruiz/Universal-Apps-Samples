@@ -1,0 +1,12 @@
+﻿<Application
+    x:Class="Ejemplo_RequestedTheme.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:locator="using:Ejemplo_RequestedTheme.ViewModels.Base">
+    <Application.Resources>
+        
+        <!-- ViewModelLocator -->
+        <locator:ViewModelLocator x:Key="Locator" />
+        
+    </Application.Resources>
+</Application>

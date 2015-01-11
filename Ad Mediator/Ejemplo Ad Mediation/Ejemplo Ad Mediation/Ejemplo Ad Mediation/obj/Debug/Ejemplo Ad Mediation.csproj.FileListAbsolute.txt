@@ -1,0 +1,55 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Ejemplo Ad Mediation.xr.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Ejemplo Ad Mediation.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Ejemplo Ad Mediation.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Ejemplo Ad Mediation.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.AdMediator.Core.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.AdMediator.WindowsPhone81.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Ejemplo Ad Mediation.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Ejemplo Ad Mediation.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Ejemplo Ad Mediation.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\ProjectArchitectures.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Views\MainView.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Views\MainView.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Views\MainView.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Views\MainView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.AdMediator.WindowsPhone81.AdDuplex.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.Common.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.Display.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\bin\Debug\Microsoft.Advertising.Mobile.UI.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.pri.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\AdDuplex.Universal.WinPhone.WinRT.pri.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Microsoft.Advertising.Mobile.Common.pri.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Microsoft.Advertising.Mobile.Display.pri.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo Ad Mediation\Ejemplo Ad Mediation\obj\Debug\Microsoft.Advertising.Mobile.UI.pri.xml

@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="Ejemplo_JumpList.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Ejemplo_JumpList.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    DataContext="{Binding MainViewModel, Source={StaticResource Locator}}">
+    <Page.Resources>
+
+        <CollectionViewSource
+            x:Name="groupedMoviesViewSource"
+            Source="{Binding Movies}"
+            IsSourceGrouped="true"
+            ItemsPath="Movies"/>
+
+    </Page.Resources>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Margin="116,50,0,0">
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="SemanticZoom" Style="{StaticResource HeaderTextBlockStyle}"/>
+        </Grid>
+        <SemanticZoom Grid.Row="1">
+            <SemanticZoom.ZoomedInView>
+                <GridView 
+                    Margin="116,0,40,46"
+                    IsHoldingEnabled="True" 
+                    ItemsSource="{Binding Source={StaticResource groupedMoviesViewSource}}"
+                    ItemTemplate="{StaticResource MovieItemTemplate}">
+                    <GridView.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <ItemsWrapGrid MaximumRowsOrColumns="3"/>
+                        </ItemsPanelTemplate>
+                    </GridView.ItemsPanel>
+                    <GridView.GroupStyle>
+                        <GroupStyle HidesIfEmpty="True"
+                                    HeaderTemplate="{StaticResource MovieGroupHeaderTemplate}">
+                        </GroupStyle>
+                    </GridView.GroupStyle>
+                </GridView>
+            </SemanticZoom.ZoomedInView>
+            <SemanticZoom.ZoomedOutView>
+                <GridView 
+                    Margin="116,0,40,46"
+                    ItemsSource="{Binding Source={StaticResource groupedMoviesViewSource}, Path=CollectionGroups}"
+                    ItemTemplate="{StaticResource MovieJumpTemplate}"/>
+            </SemanticZoom.ZoomedOutView>
+        </SemanticZoom>
+    </Grid>
+</Page>
+

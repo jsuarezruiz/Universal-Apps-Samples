@@ -1,0 +1,1 @@
+c:\users\javier\documents\visual studio 14\Projects\CredentialLocker\CredentialLocker\CredentialLocker.Windows\CredentialLocker.Windows.csproj;neutral

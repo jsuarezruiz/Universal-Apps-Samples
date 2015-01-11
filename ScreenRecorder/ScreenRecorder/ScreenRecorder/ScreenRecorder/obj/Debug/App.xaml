@@ -1,0 +1,17 @@
+﻿<Application
+    x:Class="ScreenRecorder.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:locator="using:ScreenRecorder.ViewModels.Base"
+    xmlns:converters="using:ScreenRecorder.Converters">
+    <Application.Resources>
+        <!-- ViewModelLocator -->
+        <locator:ViewModelLocator x:Key="Locator" />
+
+        <!-- Converters -->
+        <converters:RecordStateToStringConverter x:Key="RecordStateToStringConverter"/>
+        <converters:RecordStateToIconElementConverter x:Key="RecordStateToIconElementConverter" />
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter" />
+    </Application.Resources>
+</Application>
+

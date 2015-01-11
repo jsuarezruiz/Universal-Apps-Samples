@@ -1,0 +1,34 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\Views\MainView.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\Views\MainView.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\Views\MainView.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\Ejemplo TextToSpeech.WindowsPhone.xr.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\Ejemplo TextToSpeech.WindowsPhone.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\Ejemplo TextToSpeech.WindowsPhone.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\Ejemplo TextToSpeech.WindowsPhone.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.NetCore.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\Ejemplo TextToSpeech.WindowsPhone.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\Ejemplo TextToSpeech.WindowsPhone.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\Ejemplo TextToSpeech.WindowsPhone.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.WindowsPhone\obj\Debug\ProjectArchitectures.txt

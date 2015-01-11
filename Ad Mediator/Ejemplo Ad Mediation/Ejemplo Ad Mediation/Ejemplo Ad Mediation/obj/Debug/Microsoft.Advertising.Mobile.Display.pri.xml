@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Microsoft.Advertising.Mobile.Display" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US, EN-GB, CS-CZ, DA-DK, DE-DE, EL-GR, ES-ES, FI-FI, FR-FR, HU-HU, IT-IT, JA-JP, KO-KR, NB-NO, NL-NL, PL-PL, PT-BR, PT-PT, RU-RU, SV-SE, ZH-CN, ZH-TW</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.Display">
+			<ResourceMapSubtree name="Strings">
+				<NamedResource name="ActionMenuTitle" uri="ms-resource://Microsoft.Advertising.Mobile.Display/Microsoft.Advertising.Mobile.Display/Strings/ActionMenuTitle">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>廣告</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>广告</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-SV-SE" type="String">
+						<Value>Annons</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Реклама</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-PT" type="String">
+						<Value>Publicidade</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-BR" type="String">
+						<Value>Anúncio</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PL-PL" type="String">
+						<Value>Reklama</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NL-NL" type="String">
+						<Value>Advertentie</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NB-NO" type="String">
+						<Value>Annonsering</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>광고</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>広告</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Pubblicità</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-HU-HU" type="String">
+						<Value>Hirdetés</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Publicité</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FI-FI" type="String">
+						<Value>Mainos</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Publicidad</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EL-GR" type="String">
+						<Value>Διαφήμιση</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Werbung</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DA-DK" type="String">
+						<Value>Reklame</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-CS-CZ" type="String">
+						<Value>Reklama</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BrowseTextPrefix" uri="ms-resource://Microsoft.Advertising.Mobile.Display/Microsoft.Advertising.Mobile.Display/Strings/BrowseTextPrefix">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>瀏覽</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>浏览</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-SV-SE" type="String">
+						<Value>bläddra</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>обзор</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-PT" type="String">
+						<Value>procurar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-BR" type="String">
+						<Value>procurar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PL-PL" type="String">
+						<Value>przeglądaj</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NL-NL" type="String">
+						<Value>bladeren</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NB-NO" type="String">
+						<Value>bla gjennom</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>찾아보기</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>参照</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>sfoglia</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-HU-HU" type="String">
+						<Value>böngészés</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>parcourir</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FI-FI" type="String">
+						<Value>selaa</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>examinar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>browse</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>browse</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EL-GR" type="String">
+						<Value>αναζήτηση</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Durchsuchen</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DA-DK" type="String">
+						<Value>gennemse</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-CS-CZ" type="String">
+						<Value>procházet</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>browse</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CallTextPrefix" uri="ms-resource://Microsoft.Advertising.Mobile.Display/Microsoft.Advertising.Mobile.Display/Strings/CallTextPrefix">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>呼叫</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>调用</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-SV-SE" type="String">
+						<Value>ring</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>вызов</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-PT" type="String">
+						<Value>chamar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-BR" type="String">
+						<Value>telefonar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PL-PL" type="String">
+						<Value>połącz</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NL-NL" type="String">
+						<Value>bellen</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NB-NO" type="String">
+						<Value>ring opp</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>호출</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>電話</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>chiama</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-HU-HU" type="String">
+						<Value>hívás</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>appeler</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FI-FI" type="String">
+						<Value>soita</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>llamar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>call</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>call</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EL-GR" type="String">
+						<Value>κλήση</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Anrufen</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DA-DK" type="String">
+						<Value>ring</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-CS-CZ" type="String">
+						<Value>volat</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>call</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CancelButtonText" uri="ms-resource://Microsoft.Advertising.Mobile.Display/Microsoft.Advertising.Mobile.Display/Strings/CancelButtonText">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>取消</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>取消</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-SV-SE" type="String">
+						<Value>avbryt</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>отмена</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-PT" type="String">
+						<Value>cancelar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-BR" type="String">
+						<Value>cancelar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PL-PL" type="String">
+						<Value>anuluj</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NL-NL" type="String">
+						<Value>annuleren</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NB-NO" type="String">
+						<Value>avbryt</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>취소</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>解約</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>annulla</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-HU-HU" type="String">
+						<Value>mégse</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>annuler</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FI-FI" type="String">
+						<Value>peruuta</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>cancelar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>cancel</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>cancel</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EL-GR" type="String">
+						<Value>άκυρο</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Abbrechen</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DA-DK" type="String">
+						<Value>annuller</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-CS-CZ" type="String">
+						<Value>storno</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>cancel</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Ellipses" uri="ms-resource://Microsoft.Advertising.Mobile.Display/Microsoft.Advertising.Mobile.Display/Strings/Ellipses">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-SV-SE" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-PT" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-BR" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PL-PL" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NL-NL" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NB-NO" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-HU-HU" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FI-FI" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EL-GR" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DA-DK" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-CS-CZ" type="String">
+						<Value>...</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>...</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ResponseError" uri="ms-resource://Microsoft.Advertising.Mobile.Display/Microsoft.Advertising.Mobile.Display/Strings/ResponseError">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>要求失敗，錯誤碼: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>请求失败，显示以下错误代码: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-SV-SE" type="String">
+						<Value>Begäran misslyckades. Felkod: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Запрос отклонен с кодом ошибки: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-PT" type="String">
+						<Value>O pedido falhou com o código de erro: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PT-BR" type="String">
+						<Value>A solicitação falhou com o código de erro: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-PL-PL" type="String">
+						<Value>Żądanie usługi nie powiodło się, kod błędu: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NL-NL" type="String">
+						<Value>Aanvraag is mislukt met foutcode: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-NB-NO" type="String">
+						<Value>Forespørselen mislyktes med feilkoden: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>다음 오류로 인해 요청 실패: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>要求に失敗しました。エラー コード: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Richiesta non riuscita con codice errore: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-HU-HU" type="String">
+						<Value>A kérés sikertelen; hibakód: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Échec de la demande avec le code d'erreur : {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FI-FI" type="String">
+						<Value>Pyyntö epäonnistui ja palautti seuraavan virhekoodin: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Error de solicitud con el código de error: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Request failed with error code: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EL-GR" type="String">
+						<Value>Η αίτηση απέτυχε με κωδικό σφάλματος: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Anforderungsfehler. Fehlercode: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DA-DK" type="String">
+						<Value>Anmodningen mislykkedes med fejlkoden: {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-CS-CZ" type="String">
+						<Value>Požadavek se nezdařil. Kódy chyby: {0}</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Request failed with error code: {0}</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

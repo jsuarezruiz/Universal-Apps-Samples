@@ -1,0 +1,38 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Ejemplo CommandBar.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Views\MainView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Views\MainView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Views\MainView.xaml
+C:\Users\Javier\documents\visual studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Views\MainView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Views\MainView.xbf
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Ejemplo CommandBar.WindowsPhone.xr.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Ejemplo CommandBar.WindowsPhone.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Ejemplo CommandBar.WindowsPhone.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Ejemplo CommandBar.WindowsPhone.build.appxrecipe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.NetCore.dll
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.NetCore.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.NetCore.pri
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Ejemplo CommandBar.WindowsPhone.exe
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Ejemplo CommandBar.WindowsPhone.pdb
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Ejemplo CommandBar.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.NetCore.pri.xml
+C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo CommandBar\Ejemplo CommandBar\Ejemplo CommandBar.WindowsPhone\obj\Debug\ProjectArchitectures.txt

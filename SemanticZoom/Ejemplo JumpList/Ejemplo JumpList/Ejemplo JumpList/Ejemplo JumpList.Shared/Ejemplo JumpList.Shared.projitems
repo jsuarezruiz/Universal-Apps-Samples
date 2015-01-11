@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>001f741b-20ed-48cf-a1f1-9293527a2d33</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Ejemplo_JumpList</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Movie.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\MoviesByYear.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Base\DelegateCommand.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Base\DelegateCommandAsync.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Base\ViewModelBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\Base\ViewModelLocator.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\MainViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Avatar.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Batman.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Carter.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Cisne.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Drive.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Origen.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Rey.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Toy.jpg" />
+  </ItemGroup>
+</Project>

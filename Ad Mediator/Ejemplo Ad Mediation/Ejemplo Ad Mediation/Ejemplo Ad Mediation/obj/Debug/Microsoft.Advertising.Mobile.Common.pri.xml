@@ -1,0 +1,2365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Microsoft.Advertising.Mobile.Common" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US, DE-DE, ES-ES, FR-FR, IT-IT, JA-JP, KO-KR, RU-RU, ZH-CN, ZH-TW</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Microsoft.Advertising.Mobile.Common">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="AdComponentAlreadyInitialized" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdComponent 已初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>AdComponent 已初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Инициализация компонента AdComponent уже выполнена.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdComponent가 이미 초기화되었습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdComponent は既に初期化されています。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdComponent è stato già inizializzato.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdComponent a déjà été initialisé.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Ya se ha inicializado AdComponent.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdComponent has already been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdComponent wurde bereits initialisiert.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdComponentHasNotBeenInitialized" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentAlreadyInitialized" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdGameComponentAlreadyInitialized">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdGameComponent 已初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>AdGameComponent 已初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Инициализация компонента AdGameComponent уже выполнена.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdGameComponent가 이미 초기화되었습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdGameComponent は既に初期化されています。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdGameComponent è stato già inizializzato.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdGameComponent a déjà été initialisé.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Ya se ha inicializado AdGameComponent.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdGameComponent wurde bereits initialisiert.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdGameComponent has already been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdGameComponentHasNotBeenInitialized" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdGameComponentHasNotBeenInitialized">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdGameComponent 尚未初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>AdGameComponent 未初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Компонент AdGameComponent не инициализирован.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdGameComponent가 초기화되지 않았습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdGameComponent は初期化されていません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdGameComponent non è stato inizializzato.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdGameComponent n'a pas été initialisé.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>No se ha inicializado AdGameComponent.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdGameComponent wurde nicht initialisiert.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdGameComponent has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdManagerNotInitialized" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdManagerNotInitialized">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdManager has not been initialized.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdMangerAlreadyInitialized" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdMangerAlreadyInitialized">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdManager 已經由不同的 ApplicationId 初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>AdManager 已使用其他 ApplicationId 初始化。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>AdManager уже инициализирован с другим кодом ApplicationId.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdManager가 이미 다른 ApplicationId로 초기화되었습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdManager は別の ApplicationId で既に初期化されています。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdManager è stato già inizializzato con un ApplicationId differente.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdManager a déjà été initialisé avec un ApplicationId différent.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Ya se ha inicializado AdManager con un ApplicationId diferente.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdManager wurde bereits mit einer anderen ApplicationId initialisiert.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdManager has already been initialized with a different ApplicationId.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdUnitIdAlreadySet" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AdUnitIdAlreadySet">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdUnitId 已經設定。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>已设置 AdUnitId。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Параметр AdUnitId уже был задан.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdUnitId가 이미 설정되었습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdUnitId は既に設定されています。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdUnitId è stato già impostato.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdUnitId a déjà été défini.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Ya se ha establecido el valor de AdUnitId.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdUnitId wurde bereits festgelegt.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdUnitId has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AllActionsMalformed" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AllActionsMalformed">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>All found actions were malformed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ApplicationIdIsRequired" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ApplicationIdIsRequired">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>applicationId 是必要的。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>需要 applicationId。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Требуется код ApplicationId.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>applicationId는 필수입니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>applicationId が必要です。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>È richiesto un applicationId.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>applicationId est obligatoire.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>ApplicationId es obligatorio.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>ApplicationId ist erforderlich.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>applicationId is required.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AppPlatformVersionInvalid" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AppPlatformVersionInvalid">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>此版本的廣告控制項與 7.0 應用程式不相容。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>此版本的广告控件与 7.0 应用程序不兼容。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Данная версия элемента управления рекламными объявлениями не совместима с приложениями версии 7.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>이 광고 컨트롤의 버전이 7.0 애플리케이션과 호환되지 않습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>このバージョンの広告コントロールは、7.0 アプリケーションとは互換性がありません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Questa versione del controllo spazi pubblicitari non è compatibile con applicazioni 7.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Cette version du contrôle d'annonces n'est pas compatible avec les annonces 7.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Esta versión del control de anuncios no es compatible con aplicaciones 7.0.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>This version of the ad control is not compatible with 7.0 apps.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Diese Version des Anzeigensteuerelements ist nicht mit Apps der Version 7.0 kompatibel.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>This version of the ad control is not compatible with 7.0 apps.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AssetNodeIsSingleEntry" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/AssetNodeIsSingleEntry">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Asset node is a single entry.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BannerInformationNotFound" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/BannerInformationNotFound">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Banner information is not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>You cannot call refresh when an ad is engaged</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when the AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called when the AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>當 AdControl 暫停時，無法呼叫 Refresh。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>当 AdControl 暂停使用时，可能无法调用 Refresh。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Обновление не может быть вызвано во время приостановки AdControl.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdControl이 일지 중지되면 Refresh를 호출할 수 없습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdControl が一時停止されている場合、Refresh の呼び出しは許可されません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Non è possibile eseguire la chiamata a Refresh quando AdControl è sospeso.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>L'actualisation peut ne pas être invoquée lorsque AdControl est suspendu.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Puede que no se llame a la acción Actualizar cuando se suspende el AdControl.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when the AdControl is suspended.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>"Aktualisieren" kann nicht aufgerufen werden, während AdControl ausgesetzt ist.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called when the AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Required capabilities are missing from manifest ({0}): {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithoutReferralNotWellFormed" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ClickToRichUrlWithoutReferralNotWellFormed">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Click to rich media url without referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ClickToRichUrlWithReferralNotWellFormed" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ClickToRichUrlWithReferralNotWellFormed">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Click to rich media url with referral is not well formed: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Could not find property: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CountryOrRegionLengthInvalid" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/CountryOrRegionLengthInvalid">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The country or region code has an invalid length.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DidNotParseToEnd" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/DidNotParseToEnd">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Did not parse until the end.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ExtractedPropertyNotAString" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ExtractedPropertyNotAString">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Extracted property not of string type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontDoesNotSupportCharacter" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/FontDoesNotSupportCharacter">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Font does not support character: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GeoDataNotAvailable" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/GeoDataNotAvailable">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>No latitude and longitude data available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="IncompleteInit" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/IncompleteInit">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>必須先設定 ApplicationId 和 AdUnitId，才可使用此控制項。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>使用此控件前需设置 ApplicationId 和 AdUnitId。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Перед использованием этого элемента управления необходимо задать параметры ApplicationId и AdUnitId.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>이 컨트롤을 사용하기 전에 ApplicationId 및 AdUnitId를 설정해야 합니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>このコントロールを使用する前に、ApplicationId と AdUnitId を設定する必要があります。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>È necessario impostare ApplicationId e AdUnitId prima di utilizzare questo controllo.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>ApplicationId et AdUnitId doivent être définis avant d'utiliser cette commande.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Antes de usar este control deben establecerse los valores de ApplicationId y AdUnitId.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>ApplicationId und AdUnitId müssen festgelegt werden, bevor dieses Steuerelement verwendet werden kann.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>ApplicationId and AdUnitId need to be set before using this control.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InternalError" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InternalError">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>發生內部錯誤。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>遇到内部错误。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Обнаружена внутренняя ошибка.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>내부 오류가 발생했습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>内部エラーが発生しました。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Errore interno.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Erreur interne rencontrée.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Se ha encontrado un error interno.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Interner Fehler.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Internal error encountered.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAction" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidAction">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid action parameter: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidAdUnitId" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidAdUnitId">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>AdUnitId can only have a '?' when it has a valid prefix before it.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidDataFormat" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidDataFormat">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid data format: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidJsonResponse" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidJsonResponse">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid JSON response: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidLocation" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidLocation">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>地點的值超出範圍。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>位置值超出范围。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Значение расположения находится за пределами диапазона.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>위치 값이 범위를 벗어났습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>場所の値が範囲外です。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Il valore relativo alla località non è compreso nell'intervallo.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>La valeur Emplacement est hors limites.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>El valor de la ubicación está fuera del intervalo.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Der Standortwert liegt außerhalb des Bereichs.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The Location value is out of range.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidParameterMissingItemSeparator" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidParameterMissingItemSeparator">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid Parameter, missing item separator.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>啟用自動重新整理時無法使用重新整理。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>启用自动刷新之后无法使用手动刷新。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Нельзя использовать обновление при включенном автоматическом обновлении.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>자동 새로 고침이 설정되어 있을 경우 새로 고침을 사용할 수 없습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>自動リフレッシュが使用可能であるとき、リフレッシュは使用できません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Se è abilitato l'aggiornamento automatico, non è possibile utilizzare il comando Aggiorna.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>L'actualisation ne peut pas être utilisée lorsque l'actualisation automatique est activée.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>No se puede usar la función de actualización cuando está habilitada la automática.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Aktualisieren kann nicht verwendet werden, wenn die automatische Aktualisierung aktiviert ist.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefreshExpanded" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidRefreshExpanded">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh cannot be used when an ad is expanded.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidSize" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/InvalidSize">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>矩形的大小不符合最小尺寸要求 ({0}x{1})。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>广告的矩形大小未达到最低尺寸要求 ({0}x{1})。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Размеры прямоугольника не соответствуют минимальным требованиям к размеру ({0}x{1}).</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>직사각형 크기가 최소 크기 요구 사항({0}x{1})을 충족하지 않습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>長方形の寸法が、最小サイズ要件 ({0}x{1}) を満たしていません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Le dimensioni del rettangolo non soddisfano i requisiti per le dimensioni minime ({0}x{1}).</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Les dimensions du rectangle ne correspondent pas aux dimensions minimales acceptées ({0}x{1}).</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Las dimensiones del rectángulo no cumplen los requisitos de tamaño mínimo ({0}x{1}).</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Die Dimensionen des Rechtecks entsprechen nicht den Mindestgrößenanforderungen ({0} x {1}).</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The rectangle dimensions do not meet the minimum size requirements ({0}x{1}).</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonDoesntStartWithObjectOrArray" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonDoesntStartWithObjectOrArray">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Server JSON response does not start with object/array.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonIntegerParseOverflow" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonIntegerParseOverflow">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Number being parsed is too big: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonNodeIsNotADictionary" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonNodeIsNotADictionary">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Json node is not a dictionary.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonResponseTypeInvalid" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonResponseTypeInvalid">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Invalid JSON response type.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JsonStringValueNotWellFormed" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/JsonStringValueNotWellFormed">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Json string value not well formed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="KeywordsExceedMaxLength" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/KeywordsExceedMaxLength">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>關鍵字字串超過允許的長度上限：{0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>关键字字符串长度超过允许的最大长度：{0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Длина строки ключевых слов превышает максимально допустимую длину: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Keyword 문자열이 다음 허용되는 길이를 초과합니다. {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>キーワード文字列が、許可された長さを超えています。{0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>La stringa della parola chiave supera la lunghezza consentita: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>La chaîne de mots clés dépasse la longueur autorisée : {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>La cadena de palabras clave supera la longitud permitida: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The Keyword string exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Die Stichwortzeichenfolge überschreitet die zulässige Länge: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The Keyword string exceeds the allowed length: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LoadContentNotCalled" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/LoadContentNotCalled">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>在更新/繪製之前沒有呼叫 LoadContent。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>在更新/绘制前未调用 LoadContent 方法。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Метод LoadContent не был вызван перед вызовом Update/Draw.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>LoadContent가 Update/Draw 다음에 호출되었습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>アップデート/ドローの前に、LoadContent が呼び出されませんでした。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Chiamata a LoadContent non eseguita prima dell'aggiornamento/del disegno.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>LoadContent n'a pas été appelé avant Update/Draw.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>No se ha llamado a LoadContent antes de actualizar/insertar.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>LoadContent wurde nicht vor Update/Draw aufgerufen.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>LoadContent has not been called before Update/Draw.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NetworkNotAvailable" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/NetworkNotAvailable">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Network is not available.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Network is not available.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NonPremiumWithNoApplicationId" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/NonPremiumWithNoApplicationId">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>非高階廣告需要管理員以非空值、非空白的 applicationID 建立。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>非溢价广告要求管理员使用非 null 或非空 applicationID 创建。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>При создании рекламного объявления не премиум-класса управляющему требуется код ApplicationID, который не пуст и не имеет значение NULL.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>비프리미엄 광고에서 관리자는 applicationID가 null이 아닌, 비어 있지 않은 상태에서 만들어져야 합니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>マネージャーは、null でも空でもないアプリケーション ID で非プレミアム アドを作成する必要があります。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Per gli annunci non premium è necessario che il gestore sia creato con un applicationID non vuoto e non null.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>En ce qui concerne les annonces dont le statut n'est pas Premium, le responsable doit créer ces dernières avec un applicationID non nul et non vide.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Los anuncios que no son premium requieren que el administrador se cree con un applicationID que no esté vacío ni sea nulo.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Für Nicht-Premiumanzeigen muss der Manager mit einer ApplicationID erstellt werden, die nicht NULL oder leer ist.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Non-premium ads require the manager to be created with a non-null, non-empty applicationID.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ObjectShouldHaveNoElements" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ObjectShouldHaveNoElements">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Object should have no elements yet, but it does.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="OnlyTestAdsAllowedInEmulator" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/OnlyTestAdsAllowedInEmulator">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>You can not use PubCenter IDs for testing in the emulator. If you want to test with these IDs, please deploy your application to a device. Otherwise please change your ApplicationId to "test_client" and AdUnitId to one of the supported ad types as outlined in the documentation.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterIsLessThanPermittedLength" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParameterIsLessThanPermittedLength">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parameter is less than permitted length: {0} &lt; {1}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParameterNullOrEmpty" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParameterNullOrEmpty">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parameter is null or empty.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStackNotEmpty" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParseStackNotEmpty">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Parsing stack not empty, some nodes not parsed completely.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ParseStringNotANumber" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/ParseStringNotANumber">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Not a valid number to be parsed.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PostalCodeExceedsMaxLength" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/PostalCodeExceedsMaxLength">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The postal code exceeds the allowed length: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RafAdOrPrmMissing" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RafAdOrPrmMissing">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>RAF 回應缺少 ad 或 prm 元素。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>RAF 响应缺少广告或 prm 元素。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>В ответе RAF отсутствует элемент объявления или prm.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>광고 또는 prm 요소에 RAF 응답이 누락되었습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>RAF 応答に ad または prm 要素がありません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>L'annuncio o l'elemento prm della risposta RAF è mancante.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>L'annonce ou l'élément prm est manquant dans la réponse RAF.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Falta el anuncio o el elemento prm en la respuesta de RAF.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The RAF response is missing the ad or prm element.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>In der RAF-Antwort fehlt das ad- oder prm-Element.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The RAF response is missing the ad or prm element.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RafRendererMissingEmptyOrNotAnArray" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RafRendererMissingEmptyOrNotAnArray">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>RAF 回應包含缺少、空白或非陣列的 rdr 元素</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>RAF 响应包含缺失的、空的或非数组 rdr 元素</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Ответ RAF содержит элемент rdr, который отсутствует, пуст или не является массивом</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>RAF 응답에 rdr 요소가 누락되었거나 비어있거나 배열이 아닙니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>不足している、空の、または配列ではない rdr 要素が RAF 応答に含まれています</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>La risposta RAF contiene un elemento rdr mancante, vuoto o non contiene una matrice</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>La réponse RAF contient un élément rdr qui est manquant, vide ou n'est pas un tableau</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>La respuesta de RAF contiene un elemento rdr que falta, está vacío o no es una matriz.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>The RAF response contains a rdr element that is missing, empty, or not an array</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Die RAF-Antwort enthält ein rdr-Element, das fehlt, leer ist oder bei dem es sich nicht um ein Array handelt.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>The RAF response contains a rdr element that is missing, empty, or not an array</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RectangleHeightNotSufficient" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RectangleHeightNotSufficient">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rectangle height not sufficient for a single line of text. Height should be at least: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>呼叫 Refresh 的間隔必須超過 {0} 秒。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Refresh 调用每 {0} 秒不得超过一次。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Обновление не может запускаться чаще, чем раз в {0} с.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Refresh는 {0}초당 한번만 호출할 수 있습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>{0} 秒ごとに 1 回を超える Refresh の呼び出しは許可されません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Non è possibile eseguire la chiamata a Refresh più di una volta ogni {0} secondi.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>L'actualisation ne peut pas être invoquée plus d'une fois toutes les {0} secondes.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Puede que no se llame a la acción Actualizar más de una vez cada {0} segundos.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>"Aktualisieren" kann nur ein Mal pro {0} Sekunden aufgerufen werden.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Refresh may not be called more than once every {0} seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileEngaged" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RefreshWhileEngaged">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>廣告有參與者時不允許手動重新整理。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>在展示广告的情况下禁止手动刷新。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Ручное обновление не разрешено во время взаимодействия с рекламным объявлением.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>광고를 게재하는 동안에는 수동 새로 고침이 허용되지 않습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>アドの処理中に手動リフレッシュは許可されません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Aggiornamento manuale non consentito durante l'utilizzo di un annuncio.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>L'actualisation automatique n'est pas autorisée durant le traitement d'une annonce.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>No se permite la actualización manual mientras el anuncio está activado.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Manuelles Aktualisieren ist bei geschalteter Anzeige nicht zulässig.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Manual refresh not permitted while ad is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>httpRequestsData has null data items at index: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaContentNotFound" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RichMediaContentNotFound">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rich media content not found in ad response.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RichMediaInfoNotFound" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/RichMediaInfoNotFound">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Rich media information not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StringContainsInvalidEscapeSequence" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/StringContainsInvalidEscapeSequence">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>String contains invalid escape sequences.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAdTitleNotFound" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/TextAdTitleNotFound">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Mandatory title for text ad not found.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TooManyImpressionUrls" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/TooManyImpressionUrls">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Number of impression entries exceeds the limit: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnableToFitText" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnableToFitText">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>廣告無法符合特定大小。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>广告无法在指定空间中显示。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Рекламное объявление не помещается в данном месте.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>주어진 공간에 광고를 맞출 수 없습니다.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>指定のスペースに広告が収まりません。</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Impossibile adattare l'annuncio allo spazio stabilito.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Impossible d'insérer l'annonce dans l'espace donné.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>El anuncio no cabe en el espacio dado.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unable to fit ad in the given space.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Der vorhandene Platz reicht für die Anzeige nicht aus.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unable to fit ad in the given space.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnicodeCharacterTruncated" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnicodeCharacterTruncated">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unicode character is truncated.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownAdType" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownAdType">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown ad type: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownJsonToken" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownJsonToken">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown token encountered: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UnknownRichMediaMimeType" uri="ms-resource://Microsoft.Advertising.Mobile.Common/Microsoft.Advertising.Mobile.Common/ExceptionMessages/UnknownRichMediaMimeType">
+					<Candidate qualifiers="Language-ZH-TW" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ZH-CN" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-RU-RU" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-KO-KR" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-JA-JP" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-IT-IT" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-ES-ES" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-DE-DE" type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+					<Candidate type="String">
+						<Value>Unknown rich media mime type received: {0}.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

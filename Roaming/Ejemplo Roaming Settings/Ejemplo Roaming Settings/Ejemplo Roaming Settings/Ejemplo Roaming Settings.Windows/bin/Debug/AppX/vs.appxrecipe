@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURFACEJSUAREZ</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2006JavierSurezRuiz.JSRoaming</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8369D3B7967D3A995BD46D0CF4843032879BE88447C4E87B91F74B448822018F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2006JavierSurezRuiz.JSRoaming_1.1.0.0_neutral__r2gzf7yx8tfee</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2006JavierSurezRuiz.JSRoaming_r2gzf7yx8tfee!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2006JavierSurezRuiz.JSRoaming</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=72ACA575-C16F-4F50-B7E0-3289AA8F6095</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-03T10:32:00.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\Ejemplo Roaming Settings.Windows.exe">
+      <PackagePath>Ejemplo Roaming Settings.Windows.exe</PackagePath>
+      <Modified>2014-11-17T11:26:26.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\packages\CommonServiceLocator.1.2\lib\portable-windows8+net40+sl5+windowsphone8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-11-01T10:38:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\packages\Unity.3.5.1404.0\lib\win8\Microsoft.Practices.Unity.dll">
+      <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
+      <Modified>2014-11-01T10:38:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\packages\Unity.3.5.1404.0\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
+      <Modified>2014-11-01T10:38:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-08T15:54:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-08T15:54:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-08T15:54:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-08T15:54:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-03T10:15:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\Views\SettingsView.xbf">
+      <PackagePath>Views\SettingsView.xbf</PackagePath>
+      <Modified>2014-11-03T10:15:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\Ejemplo Roaming Settings.Windows.xr.xml">
+      <PackagePath>Ejemplo Roaming Settings.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-17T11:26:25.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-17T11:26:28.107</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

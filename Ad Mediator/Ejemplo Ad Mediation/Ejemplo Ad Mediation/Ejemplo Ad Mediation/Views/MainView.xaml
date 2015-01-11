@@ -1,0 +1,15 @@
+﻿<Page 
+    xmlns:adMediator="using:Microsoft.AdMediator.WindowsPhone81" 
+    x:Class="Ejemplo_Ad_Mediation.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <adMediator:AdMediatorControl x:Name="AdMediator_01B3E5" HorizontalAlignment="Left" 
+                                      Height="80" Id="AdMediator-Id-9A1E0E47-BE2F-41CC-A28B-0E14AD66165E" 
+                                      VerticalAlignment="Top" Width="480"/>
+    </Grid>
+</Page>

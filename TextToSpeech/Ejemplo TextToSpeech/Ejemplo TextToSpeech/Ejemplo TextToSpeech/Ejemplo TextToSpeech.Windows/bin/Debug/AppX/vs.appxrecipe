@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAVI</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>73fdcdcc-ded5-47d0-9ff0-e690b351712e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4FA1318EBF7D7D6832623EA78EEE887D6E7D5DF0AF91E7F95177ECF24C10AC8F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>73fdcdcc-ded5-47d0-9ff0-e690b351712e_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>73fdcdcc-ded5-47d0-9ff0-e690b351712e_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>73fdcdcc-ded5-47d0-9ff0-e690b351712e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-07T17:26:45.701</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Ejemplo TextToSpeech.Windows.exe">
+      <PackagePath>Ejemplo TextToSpeech.Windows.exe</PackagePath>
+      <Modified>2014-06-07T17:26:45.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\packages\CommonServiceLocator.1.2\lib\portable-windows8+net40+sl5+windowsphone8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2014-06-07T16:57:43.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\packages\Unity.3.5.1404.0\lib\win8\Microsoft.Practices.Unity.dll">
+      <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
+      <Modified>2014-06-07T16:57:43.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\packages\Unity.3.5.1404.0\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
+      <Modified>2014-06-07T16:57:43.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\Assets\Speech.png">
+      <PackagePath>Assets\Speech.png</PackagePath>
+      <Modified>2014-06-07T17:26:35.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T09:54:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-07T17:25:21.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Views\MainView.xbf">
+      <PackagePath>Views\MainView.xbf</PackagePath>
+      <Modified>2014-06-07T17:26:45.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\Ejemplo TextToSpeech.Windows.xr.xml">
+      <PackagePath>Ejemplo TextToSpeech.Windows.xr.xml</PackagePath>
+      <Modified>2014-06-07T17:21:21.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\Visual Studio 2013\Projects\Ejemplo TextToSpeech\Ejemplo TextToSpeech\Ejemplo TextToSpeech.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-07T17:26:45.440</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,61 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Views\MainView.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Views\MainView.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Ejemplo RequestedTheme.xr.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Ejemplo RequestedTheme.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Ejemplo RequestedTheme.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Ejemplo RequestedTheme.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Views\MainView.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Views\MainView.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Ejemplo RequestedTheme.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Ejemplo RequestedTheme.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Ejemplo RequestedTheme.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\ProjectArchitectures.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Ejemplo RequestedTheme.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo RequestedTheme\Ejemplo RequestedTheme\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate

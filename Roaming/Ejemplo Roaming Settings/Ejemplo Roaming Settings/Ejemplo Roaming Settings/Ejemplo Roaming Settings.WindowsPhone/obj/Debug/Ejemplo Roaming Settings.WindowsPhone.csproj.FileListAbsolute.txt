@@ -1,0 +1,130 @@
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.g.i.cs
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.g.cs
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Views\SettingsView.xbf
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.xr.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.exe
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.pdb
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.build.appxrecipe
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.xaml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.xbf
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.exe
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.pdb
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.csproj.GenerateResource.Cache
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+c:\users\javier\documents\visual studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Javier\Documents\Visual Studio 14\Projects\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Views\SettingsView.xbf
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.xr.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.exe
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.pdb
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Ejemplo Roaming Settings.WindowsPhone.build.appxrecipe
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.g.i.cs
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.g.cs
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.xaml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Views\SettingsView.xbf
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.exe
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.pdb
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\en\Microsoft.Practices.Unity.Properties.Resources.resw
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Ejemplo Roaming Settings.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\layout.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\Resources.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\pri.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\priconfig.xml.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.pri
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity\qualifiers.txt
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\Microsoft.Practices.Unity.RegistrationByConvention.pri.xml
+C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.WindowsPhone\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURFACEJSUAREZ</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2006JavierSurezRuiz.JSRoaming</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\Ejemplo Roaming Settings.Windows.exe">
+      <PackagePath>Ejemplo Roaming Settings.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\packages\CommonServiceLocator.1.2\lib\portable-windows8+net40+sl5+windowsphone8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\packages\Unity.3.5.1404.0\lib\win8\Microsoft.Practices.Unity.dll">
+      <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\packages\Unity.3.5.1404.0\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\Views\SettingsView.xbf">
+      <PackagePath>Views\SettingsView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\Ejemplo Roaming Settings.Windows.xr.xml">
+      <PackagePath>Ejemplo Roaming Settings.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\Desktop\Portatil\Ejemplo Roaming Settings\Ejemplo Roaming Settings\Ejemplo Roaming Settings.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

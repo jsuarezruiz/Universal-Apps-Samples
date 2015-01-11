@@ -1,0 +1,37 @@
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\App.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\App.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina1.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina1.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina2.g.i.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina2.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\XamlTypeInfo.g.cs
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\App.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\XamlSaveStateFile.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina1.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina2.xaml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina1.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Pagina2.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\App.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\Pagina1.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\Pagina2.xbf
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\Ejemplo Navegacion.xr.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\Ejemplo Navegacion.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\Ejemplo Navegacion.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\resources.pri
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\AppxManifest.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\bin\Debug\Ejemplo Navegacion.build.appxrecipe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Ejemplo Navegacion.exe
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\Ejemplo Navegacion.pdb
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\priconfig.xml
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\priconfig.xml.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\layout.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\layout.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\resources.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\resources.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\pri.resfiles
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\pri.resfiles.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\qualifiers.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\qualifiers.txt.intermediate
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\javier\documents\visual studio 2013\Projects\Ejemplo Navegacion\Ejemplo Navegacion\obj\Debug\ProjectArchitectures.txt
