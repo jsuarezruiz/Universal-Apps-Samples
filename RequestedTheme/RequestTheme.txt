@@ -1,0 +1,28 @@
+<Button Content="Light" Command="{Binding LightCommand}" />
+<Button Content="Dark" Command="{Binding DarkCommand}" />
+
+private ICommand _lightCommand;
+private ICommand _darkCommand;
+
+public ICommand LightCommand
+{
+     get { return _lightCommand = _lightCommand ?? new DelegateCommand(LightCommandExecute); }
+}
+
+public ICommand DarkCommand
+{
+     get { return _darkCommand = _darkCommand ?? new DelegateCommand(DarkCommandExecute); }
+}
+
+private void LightCommandExecute()
+{
+     AppFrame.RequestedTheme = ElementTheme.Light;
+}
+
+private void DarkCommandExecute()
+{
+     AppFrame.RequestedTheme = ElementTheme.Dark;
+}
+
+AppFrame.RequestedTheme = ElementTheme.Light;
+AppFrame.RequestedTheme = ElementTheme.Dark;

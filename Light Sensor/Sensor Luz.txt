@@ -1,0 +1,104 @@
+public string Info
+{
+     get
+     {
+          return "En un lugar de la Mancha, de cuyo nombre no quiero acordarme...";
+     }
+}
+
+public string State
+{
+     get { return Lux < 3000 ? "Dark" : "Light"; }
+}
+
+private float _lux;
+
+public float Lux
+{
+     get { return _lux; }
+     set
+     {
+          _lux = value;
+          RaisePropertyChanged();
+          RaisePropertyChanged("State");
+     }
+}
+
+<ScrollViewer>
+     <StackPanel>
+          <StackPanel
+               Orientation="Horizontal">
+               <TextBlock Text="LUX:"
+                          FontSize="24" />
+               <TextBlock 
+                    Text="{Binding Lux}"
+                    FontSize="24"
+                    FontWeight="Black"
+                    Margin="5, 0"/>
+          </StackPanel>
+          <TextBlock 
+               Text="{Binding Info}"
+               FontSize="24"
+               TextWrapping="Wrap" />
+     </StackPanel>
+</ScrollViewer>
+
+private LightSensor _lightSensor;
+
+public override Task OnNavigatedTo(NavigationEventArgs args)
+{
+      return null;
+}
+
+public override Task OnNavigatedTo(NavigationEventArgs args)
+{
+     _dispatcher = CoreWindow.GetForCurrentThread().Dispatcher;
+     _lightSensor = LightSensor.GetDefault();
+
+     if (_lightSensor != null)
+     {
+          uint minReportInterval = _lightSensor.MinimumReportInterval;
+          _lightSensor.ReportInterval = minReportInterval > 1000 ? minReportInterval : 1000; 
+          _lightSensor.ReadingChanged += _lightSensor_ReadingChanged;
+     }
+     else
+     {
+          Debug.WriteLine("El dispositivo no cuenta con el sensor de luz");
+     }
+
+      return null;
+}
+
+public override Task OnNavigatedFrom(NavigationEventArgs args)
+{
+     return null;
+}
+
+public override Task OnNavigatedFrom(NavigationEventArgs args)
+{
+     if (_lightSensor != null)
+     {
+          _lightSensor.ReportInterval = 0;
+          _lightSensor.ReadingChanged -= _lightSensor_ReadingChanged;
+     }
+
+     return null;
+}
+
+void _lightSensor_ReadingChanged(LightSensor sender, LightSensorReadingChangedEventArgs args)
+{
+
+}
+
+void _lightSensor_ReadingChanged(LightSensor sender, LightSensorReadingChangedEventArgs args)
+{
+     _dispatcher.RunAsync(CoreDispatcherPriority.Normal, () =>
+     {
+          Lux = args.Reading.IlluminanceInLux;
+          AppFrame.RequestedTheme =
+          State.Equals("Dark", StringComparison.CurrentCultureIgnoreCase) ?
+               ElementTheme.Dark : ElementTheme.Light;
+     }); 
+
+     Debug.WriteLine("Lux: {0}", Lux);
+}
