@@ -1,0 +1,36 @@
+﻿<Page
+    x:Class="ConditionalXAML.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:debug="condition:DEBUG"
+    xmlns:release="condition:!DEBUG"
+    xmlns:win81="condition:WINDOWS_APP"
+    xmlns:wp81="condition:WINDOWS_PHONE_APP"
+    mc:Ignorable="debug release"
+    FontSize="32">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+            <debug:TextBlock 
+                Text="Solo visible en DEBUG" />
+            <release:TextBlock 
+                Text="Solo visible en RELEASE" />
+            <!-- Rojo en DEBUG, Verde en RELEASE -->
+            <TextBlock Text="Siempre visible" 
+                       debug:Foreground="Red"
+                       release:Foreground="Green" />
+            <!-- Win Button -->
+            <win81:Button                
+                Content="Windows" />
+            <!-- Phone Button -->
+            <wp81:Button
+                Content="Windows Phone" />
+            <Button 
+                Content="Botón"
+                win81:Background="Blue"
+                wp81:Background="Green"/>
+        </StackPanel>
+    </Grid>
+</Page>

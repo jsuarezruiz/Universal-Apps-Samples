@@ -1,0 +1,16 @@
+﻿<Page x:Class="ConditionalXAML.Views.MainView" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" FontSize="32">
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Solo visible en DEBUG" />
+            
+            <!-- Rojo en DEBUG, Verde en RELEASE -->
+            <TextBlock Text="Siempre visible" Foreground="Red" />
+            <!-- Win Button -->
+            
+            <!-- Phone Button -->
+            <Button Content="Windows Phone" />
+            <Button Content="Botón" Background="Green" />
+        </StackPanel>
+    </Grid>
+</Page>
+
