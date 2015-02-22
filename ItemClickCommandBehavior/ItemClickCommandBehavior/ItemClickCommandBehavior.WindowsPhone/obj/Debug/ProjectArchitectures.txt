@@ -1,0 +1,1 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.WindowsPhone\ItemClickCommandBehavior.WindowsPhone.csproj;neutral

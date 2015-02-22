@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AIO</Machine>
+    <WindowsUser>Javier</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2fd647a4-4d50-448d-8f84-f4fcf69dd4c9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E62B72C3B5CB0EA351FD6BB2FDCC69DAC474A96216F150532A25CC8D203B4898</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2fd647a4-4d50-448d-8f84-f4fcf69dd4c9_1.0.0.0_neutral__j6j5z4mnvcpja</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2fd647a4-4d50-448d-8f84-f4fcf69dd4c9_j6j5z4mnvcpja!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2fd647a4-4d50-448d-8f84-f4fcf69dd4c9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Javier</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-22T11:11:18.604</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\bin\Debug\ItemClickCommandBehavior.Windows.exe">
+      <PackagePath>ItemClickCommandBehavior.Windows.exe</PackagePath>
+      <Modified>2015-02-22T11:36:20.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2015-02-21T12:32:16.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.dll">
+      <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
+      <Modified>2015-02-21T12:32:16.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+      <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
+      <Modified>2015-02-21T12:32:16.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T03:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T03:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T03:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-27T03:36:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-02-22T11:11:06.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\bin\Debug\Views\MainView.xbf">
+      <PackagePath>Views\MainView.xbf</PackagePath>
+      <Modified>2015-02-22T11:36:19.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\bin\Debug\ItemClickCommandBehavior.Windows.xr.xml">
+      <PackagePath>ItemClickCommandBehavior.Windows.xr.xml</PackagePath>
+      <Modified>2015-02-22T11:36:19.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\ItemClickCommandBehavior\ItemClickCommandBehavior\ItemClickCommandBehavior.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-22T11:11:18.396</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\itemclickcommandbehavior\itemclickcommandbehavior\itemclickcommandbehavior.windowsphone\obj\debug\intermediatexaml\itemclickcommandbehavior.windowsphone.exe" HashGuid="91183429-de75-1f0c-9ccd-bb2a3935bb95" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\itemclickcommandbehavior\packages\commonservicelocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\microsoft.practices.servicelocation.dll" HashGuid="89de7f80-26d8-a17c-5ad9-b855f81ea5b2" />
+    <ReferenceAssembly PathName="c:\users\javier\documents\visual studio 2013\projects\itemclickcommandbehavior\packages\unity.3.5.1405-prerelease\lib\portable-net45+wp80+win8+wpa81+monoandroid10+monotouch10\microsoft.practices.unity.dll" HashGuid="bfbab92e-125a-5b6e-9ddc-f777451b52b9" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
