@@ -1,0 +1,78 @@
+public static class ItemClickCommandBehavior
+{
+     public static readonly DependencyProperty ItemClickCommandProperty =
+            DependencyProperty.RegisterAttached("ItemClickCommand", typeof(ICommand),
+            typeof(ItemClickCommandBehavior), new PropertyMetadata(null, OnItemClickCommandPropertyChanged));
+
+     public static void SetItemClickCommand(DependencyObject d, ICommand value)
+     {
+         d.SetValue(ItemClickCommandProperty, value);
+     }
+
+     public static ICommand GetItemClickCommand(DependencyObject d)
+     {
+         return (ICommand)d.GetValue(ItemClickCommandProperty);
+     }
+
+     private static void OnItemClickCommandPropertyChanged(DependencyObject d,
+         DependencyPropertyChangedEventArgs e)
+     {
+         var control = d as ListViewBase;
+         if (control != null)
+             control.ItemClick += OnItemClick;
+     }
+
+     private static void OnItemClick(object sender, ItemClickEventArgs e)
+     {
+         var control = sender as ListViewBase;
+         var itemClickCommand = GetItemClickCommand(control);
+
+         if itemClickCommand != null && command.CanExecute(e.ClickedItem))
+             itemClickCommand.Execute(e.ClickedItem);
+     }
+}
+
+<GridView
+     ItemsSource="{Binding Items}"
+     SelectionMode="None"
+     IsSwipeEnabled="false"
+     IsItemClickEnabled="True" />
+
+private ObservableCollection<string> _items;
+
+public ObservableCollection<string> Items
+{
+     get
+     {
+          if (_items == null)
+             LoadData();
+         return _items;
+     }
+     set { _items = value; }
+}
+
+private void LoadData()
+{
+     _items = new ObservableCollection<string>();
+     for (int i = 0; i < 100; i++)
+     {
+          _items.Add((i + 1).ToString());
+     }
+}
+
+
+private ICommand _clickCommand;
+
+public ICommand ClickCommand
+{
+     get { return _clickCommand = _clickCommand ?? new DelegateCommandAsync<string>(ClickCommandExecute); }
+}
+
+private async Task ClickCommandExecute(string parameter)
+{
+     await _dialogService.ShowAsync(parameter);
+}
+
+xmlns:behaviors="using:ItemClickCommandBehavior.Behaviors"
+
+behaviors:ItemClickCommandBehavior.Command="{Binding ClickCommand}"
