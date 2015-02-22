@@ -1,0 +1,47 @@
+xmlns:debug="condition:DEBUG"
+xmlns:release="condition:!DEBUG"
+xmlns:win81="condition:WINDOWS_APP"
+xmlns:wp81="condition:WINDOWS_PHONE_APP"
+
+<debug:TextBlock    
+     Text="Solo visible en DEBUG" />
+            
+<release:TextBlock 
+     Text="Solo visible en RELEASE" />
+            
+<!-- Rojo en DEBUG, Verde en RELEASE -->     
+<TextBlock Text="Siempre visible" 
+     debug:Foreground="Red"
+     release:Foreground="Green" />
+           
+ <!-- Win Button -->
+ <win81:Button                
+     Content="Windows" />
+           
+ <!-- Phone Button --> 
+ <wp81:Button
+     Content="Windows Phone" />
+
+<Button 
+     Content="Botón"
+     win81:Background="Blue"
+     wp81:Background="Green"/>
+
+xmlns:android="condition:__ANDROID__"
+xmlns:ios="condition:__IOS__"
+xmlns:wp="condition:WINDOWS_PHONE"
+
+<android:Label 
+     Text="Android" />
+
+<ios:Label 
+     Text="iOS" />
+
+<wp:Label 
+     Text="Windows Phone" />
+   
+ <!-- Android: Verde, iOS: Azul, Windows Phone: Rojo -->
+<Label Text="Label" 
+     android:TextColor="Green"
+     ios:TextColor="Blue"
+     wp:TextColor="Red" />
