@@ -1,0 +1,7 @@
+C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.WindowsPhone\obj\Debug\GesturesBehavior.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.WindowsPhone\obj\Debug\Views\MainView.g.i.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.WindowsPhone\obj\Debug\Views\MainView.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
