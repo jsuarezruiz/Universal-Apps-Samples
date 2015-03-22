@@ -7,16 +7,16 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>580485a6-baa5-4db8-9b89-286deee596ff</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\GesturesBehavior.Windows.exe">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\GesturesBehavior.Windows.exe">
       <PackagePath>GesturesBehavior.Windows.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
@@ -25,41 +25,41 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
       <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.dll">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.dll">
       <PackagePath>Microsoft.Practices.Unity.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\packages\Unity.3.5.1405-prerelease\lib\win8\Microsoft.Practices.Unity.RegistrationByConvention.dll">
       <PackagePath>Microsoft.Practices.Unity.RegistrationByConvention.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\Views\MainView.xbf">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\Views\MainView.xbf">
       <PackagePath>Views\MainView.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\GesturesBehavior.Windows.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\GesturesBehavior.Windows.xr.xml">
       <PackagePath>GesturesBehavior.Windows.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Javier\documents\visual studio 2013\Projects\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Javier\Documents\GitHub\Universal-Apps-Samples\GesturesBehavior\GesturesBehavior\GesturesBehavior.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

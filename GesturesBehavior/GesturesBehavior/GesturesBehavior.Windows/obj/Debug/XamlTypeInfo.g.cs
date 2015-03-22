@@ -124,7 +124,7 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[15];
+            _typeNameTable = new string[13];
             _typeNameTable[0] = "GesturesBehavior.ViewModels.Base.ViewModelLocator";
             _typeNameTable[1] = "Object";
             _typeNameTable[2] = "GesturesBehavior.ViewModels.MainViewModel";
@@ -134,14 +134,12 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
             _typeNameTable[6] = "Windows.UI.Xaml.DependencyObjectCollection";
             _typeNameTable[7] = "Windows.UI.Xaml.DependencyObject";
             _typeNameTable[8] = "GesturesBehavior.Behaviors.SwipeBehavior";
-            _typeNameTable[9] = "GesturesBehavior.Behaviors.Base.Behavior`1<Windows.UI.Xaml.UIElement>";
-            _typeNameTable[10] = "System.Windows.Input.ICommand";
-            _typeNameTable[11] = "Windows.UI.Xaml.UIElement";
-            _typeNameTable[12] = "GesturesBehavior.Views.MainView";
-            _typeNameTable[13] = "Windows.UI.Xaml.Controls.Page";
-            _typeNameTable[14] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[9] = "System.Windows.Input.ICommand";
+            _typeNameTable[10] = "GesturesBehavior.Views.MainView";
+            _typeNameTable[11] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[12] = "Windows.UI.Xaml.Controls.UserControl";
 
-            _typeTable = new global::System.Type[15];
+            _typeTable = new global::System.Type[13];
             _typeTable[0] = typeof(global::GesturesBehavior.ViewModels.Base.ViewModelLocator);
             _typeTable[1] = typeof(global::System.Object);
             _typeTable[2] = typeof(global::GesturesBehavior.ViewModels.MainViewModel);
@@ -151,12 +149,10 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
             _typeTable[6] = typeof(global::Windows.UI.Xaml.DependencyObjectCollection);
             _typeTable[7] = typeof(global::Windows.UI.Xaml.DependencyObject);
             _typeTable[8] = typeof(global::GesturesBehavior.Behaviors.SwipeBehavior);
-            _typeTable[9] = typeof(global::GesturesBehavior.Behaviors.Base.Behavior<global::Windows.UI.Xaml.UIElement>);
-            _typeTable[10] = typeof(global::System.Windows.Input.ICommand);
-            _typeTable[11] = typeof(global::Windows.UI.Xaml.UIElement);
-            _typeTable[12] = typeof(global::GesturesBehavior.Views.MainView);
-            _typeTable[13] = typeof(global::Windows.UI.Xaml.Controls.Page);
-            _typeTable[14] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[9] = typeof(global::System.Windows.Input.ICommand);
+            _typeTable[10] = typeof(global::GesturesBehavior.Views.MainView);
+            _typeTable[11] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[12] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -195,7 +191,7 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
         private object Activate_2_MainViewModel() { return new global::GesturesBehavior.ViewModels.MainViewModel(); }
         private object Activate_5_BehaviorCollection() { return new global::Microsoft.Xaml.Interactivity.BehaviorCollection(); }
         private object Activate_8_SwipeBehavior() { return new global::GesturesBehavior.Behaviors.SwipeBehavior(); }
-        private object Activate_12_MainView() { return new global::GesturesBehavior.Views.MainView(); }
+        private object Activate_10_MainView() { return new global::GesturesBehavior.Views.MainView(); }
         private void VectorAdd_5_BehaviorCollection(object instance, object item)
         {
             var collection = (global::System.Collections.Generic.ICollection<global::Windows.UI.Xaml.DependencyObject>)instance;
@@ -260,42 +256,32 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
                 break;
 
             case 8:   //  GesturesBehavior.Behaviors.SwipeBehavior
-                userType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("GesturesBehavior.Behaviors.Base.Behavior`1<Windows.UI.Xaml.UIElement>"));
+                userType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.DependencyObject"));
                 userType.Activator = Activate_8_SwipeBehavior;
                 userType.AddMemberName("SwipeCommand");
-                userType.SetIsLocalType();
-                xamlType = userType;
-                break;
-
-            case 9:   //  GesturesBehavior.Behaviors.Base.Behavior`1<Windows.UI.Xaml.UIElement>
-                userType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.DependencyObject"));
                 userType.AddMemberName("AssociatedObject");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 10:   //  System.Windows.Input.ICommand
+            case 9:   //  System.Windows.Input.ICommand
                 userType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, null);
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 11:   //  Windows.UI.Xaml.UIElement
-                xamlType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
-                break;
-
-            case 12:   //  GesturesBehavior.Views.MainView
+            case 10:   //  GesturesBehavior.Views.MainView
                 userType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_12_MainView;
+                userType.Activator = Activate_10_MainView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 13:   //  Windows.UI.Xaml.Controls.Page
+            case 11:   //  Windows.UI.Xaml.Controls.Page
                 xamlType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 14:   //  Windows.UI.Xaml.Controls.UserControl
+            case 12:   //  Windows.UI.Xaml.Controls.UserControl
                 xamlType = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
             }
@@ -326,15 +312,15 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
             var that = (global::GesturesBehavior.Behaviors.SwipeBehavior)instance;
             that.SwipeCommand = (global::System.Windows.Input.ICommand)Value;
         }
-        private object get_3_Behavior_AssociatedObject(object instance)
+        private object get_3_SwipeBehavior_AssociatedObject(object instance)
         {
-            var that = (global::GesturesBehavior.Behaviors.Base.Behavior<global::Windows.UI.Xaml.UIElement>)instance;
+            var that = (global::GesturesBehavior.Behaviors.SwipeBehavior)instance;
             return that.AssociatedObject;
         }
-        private void set_3_Behavior_AssociatedObject(object instance, object Value)
+        private void set_3_SwipeBehavior_AssociatedObject(object instance, object Value)
         {
-            var that = (global::GesturesBehavior.Behaviors.Base.Behavior<global::Windows.UI.Xaml.UIElement>)instance;
-            that.AssociatedObject = (global::Windows.UI.Xaml.UIElement)Value;
+            var that = (global::GesturesBehavior.Behaviors.SwipeBehavior)instance;
+            that.AssociatedObject = (global::Windows.UI.Xaml.DependencyObject)Value;
         }
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
@@ -365,11 +351,11 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
                 xamlMember.Getter = get_2_SwipeBehavior_SwipeCommand;
                 xamlMember.Setter = set_2_SwipeBehavior_SwipeCommand;
                 break;
-            case "GesturesBehavior.Behaviors.Base.Behavior`1<Windows.UI.Xaml.UIElement>.AssociatedObject":
-                userType = (global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("GesturesBehavior.Behaviors.Base.Behavior`1<Windows.UI.Xaml.UIElement>");
-                xamlMember = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlMember(this, "AssociatedObject", "Windows.UI.Xaml.UIElement");
-                xamlMember.Getter = get_3_Behavior_AssociatedObject;
-                xamlMember.Setter = set_3_Behavior_AssociatedObject;
+            case "GesturesBehavior.Behaviors.SwipeBehavior.AssociatedObject":
+                userType = (global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlUserType)GetXamlTypeByName("GesturesBehavior.Behaviors.SwipeBehavior");
+                xamlMember = new global::GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo.XamlMember(this, "AssociatedObject", "Windows.UI.Xaml.DependencyObject");
+                xamlMember.Getter = get_3_SwipeBehavior_AssociatedObject;
+                xamlMember.Setter = set_3_SwipeBehavior_AssociatedObject;
                 break;
             }
             return xamlMember;
@@ -696,8 +682,5 @@ namespace GesturesBehavior.GesturesBehavior_Windows_XamlTypeInfo
         }
     }
 }
-
-
-
 
 

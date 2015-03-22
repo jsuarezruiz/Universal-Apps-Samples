@@ -16,7 +16,8 @@
     public class SwipeBehavior : Behavior<UIElement>
     {
         private const double Min = 0.5;
-        private const double Max = 100;
+        private const double Max = 1;
+        
         public ICommand SwipeCommand
         {
             get { return (ICommand)GetValue(SwipeCommandProperty); }
